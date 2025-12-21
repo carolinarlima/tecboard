@@ -3,10 +3,10 @@
 Esse código foi desenvolvido com:
 - HTML semântico com boas práticas;
 - CSS externo com boas práticas de estilização + reset css + botão estilizado que muda de cor ao clicar;
-- Font interna;
-- Favicon interna;
+- Font local;
+- Favicon local.
 #
-A landing page é adaptativa, sendo projetada para ajustar o seu layout em tablets e celulares.
+A landing page é adaptativa, sendo projetada para ajustar o seu layout em tablets e celulares. 
 Seu design foi feito no Figma, e desenvolvido pelo VS Code utilizando o guia de estilo e as dimensões do layout, simulando um projeto real.
 #
 ### Página para Teste: [Tecboard](https://carolinarlima.github.io/tecboard/)
