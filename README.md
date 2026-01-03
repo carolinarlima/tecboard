@@ -55,15 +55,15 @@ Durante o desenvolvimento do TecBoard, aprimorei competências em:
 
 ## 📬 Contato
 
-Desenvolvido por **Carolina Lima**.<br>
-Projeto desenvolvido pela **Alura** no curso **HTML e CSS: ambiente, estrutura e estilo**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinarlima/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinarlima)
+#
+Lógica desenvolvida por **Carolina Lima**. <br>
+Projeto desenvolvido pela **Alura** no curso **HTML e CSS: ambiente, estrutura e estilo**
 <br>
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="100" height="100"/>
 <br>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinarlima/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinarlima)
 
 ---
 ⭐️ *Se este projeto te ajudou a entender melhor sobre ativos locais e semântica, deixe uma estrela!*
