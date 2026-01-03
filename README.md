@@ -55,8 +55,8 @@ Durante o desenvolvimento do TecBoard, aprimorei competências em:
 
 ## 📬 Contato
 
-Desenvolvido por **Carolina Lima**.
-Projeto desenvolvido pela **Alura** no curso **HTML e CSS: ambiente, estrutura e estilo**
+Desenvolvido por **Carolina Lima**.<br>
+Projeto desenvolvido pela **Alura** no curso **HTML e CSS: ambiente, estrutura e estilo**.
 <br>
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="100" height="100"/>
 <br>
